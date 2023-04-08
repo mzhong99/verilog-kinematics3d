@@ -1,0 +1,4 @@
+Dockerfile
+verilator/
+artifacts/
+external/*
