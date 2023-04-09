@@ -5,5 +5,4 @@
 **/*.vcd
 
 # Artifact and intermediate generation
-artifacts/
-verilator/
+waveforms/
